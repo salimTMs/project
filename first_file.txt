@@ -2,3 +2,5 @@ this is my first file.
 
 git config --global user.name "salim"
 git config --global user.email "deathsekai@gmail.com"
+
+im on branch 2.
